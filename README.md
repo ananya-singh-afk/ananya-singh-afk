@@ -2,7 +2,7 @@
 
 I like building projects 💻 
 
-You can reach me at 📫 singh.ananya2580@gmail.com if you are looking for collaboration 👯.
+You can reach me at 📫 singh.ananya2580@gmail.com for collaboration 👯.
 
 🌱 I’m currently grinding LeetCode for DSA.
 
