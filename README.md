@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I like building projects 💻 
+You can reach me at 📫 singh.ananya2580@gmail.com if you are looking for collaboration 👯.
+🌱 I’m currently grinding LeetCode for DSA.
 <!--
 **ananya-singh-afk/ananya-singh-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
